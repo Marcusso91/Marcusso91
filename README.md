@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Firebase-project](https://github.com/Marcusso91/Firebase-Project)
 
-- 🌱 I’m currently learning **Java SE 20, Mysql, Firebase, Html, Css, Xml**
+- 🌱 I’m currently learning **Java SE 20, Mysql, Firebase, html, css, xml**
 
 - 💬 Ask me about **Java**
 
